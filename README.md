@@ -1,6 +1,2 @@
-##webpack-browserify-test
+##Andrew Caughy Website
 :+1:
-
-## License
-
-Batter is licensed under the [MIT](http://opensource.org/licenses/mit-license.php) license.
